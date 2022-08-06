@@ -3,8 +3,7 @@
 
 ### About me
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like Java, HTML, CSS and Javascript.<br/>
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
+:pencil: I’m currently learning Basic Programming skills like Java, HTML, CSS and Javascript.<br/>
 📫 How to reach me: qkrqkqhek@gmail.com <br/>
 
 ### Interest
